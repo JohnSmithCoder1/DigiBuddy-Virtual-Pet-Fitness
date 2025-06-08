@@ -6,10 +6,9 @@ DigiBuddy is free to use and does not require an account or login. DigiBuddy doe
 
 **HealthKit Data**
 
-DigiBuddy integrates with Apple HealthKit to display your progress toward selected health and fitness goals, including:
+DigiBuddy integrates with Apple HealthKit to display your progress toward selected fitness goals, including:
 * Steps
 * Exercise minutes
-* Mindfulness minutes
 
 Access to HealthKit data is entirely optional and can be granted or denied per category within Apple Health settings. DigiBuddy does not transmit, store, or share HealthKit data with any external servers, third parties, or other apps. All HealthKit data remains securely on your device.
 
