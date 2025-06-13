@@ -1,6 +1,6 @@
-# DigiBuddy
+# DigiBuddy: Virtual Fitness Pet
 
-<img src="https://github.com/JohnSmithCoder1/DigiBuddy-Healthy-Habits/blob/main/Screenshots/screenshot_1.jpeg" width="160"> <img src="https://github.com/JohnSmithCoder1/DigiBuddy-Healthy-Habits/blob/main/Screenshots/screenshot_2.jpeg" width="160"> <img src="https://github.com/JohnSmithCoder1/DigiBuddy-Healthy-Habits/blob/main/Screenshots/screenshot_3.jpeg" width="160"> <img src="https://github.com/JohnSmithCoder1/DigiBuddy-Healthy-Habits/blob/main/Screenshots/screenshot_4.jpeg" width="160">
+<img src="https://github.com/JohnSmithCoder1/DigiBuddy-Virtual-Fitness-Pet/blob/main/Screenshots/screenshot_1.jpeg" width="160"> <img src="https://github.com/JohnSmithCoder1/DigiBuddy-Virtual-Fitness-Pet/blob/main/Screenshots/screenshot_2.jpeg" width="160"> <img src="https://github.com/JohnSmithCoder1/DigiBuddy-Virtual-Fitness-Pet/blob/main/Screenshots/screenshot_3.jpeg" width="160"> <img src="https://github.com/JohnSmithCoder1/DigiBuddy-Virtual-Fitness-Pet/blob/main/Screenshots/screenshot_4.jpeg" width="160">
 
 ## Apple App Store ID
 
