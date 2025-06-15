@@ -5,7 +5,7 @@
 
 ## Apple App Store ID
 
-* [6740509102](https://apps.apple.com/us/app/digibuddy-healthy-habits/id6740509102)
+* [6740509102](https://apps.apple.com/us/app/digibuddy-virtual-fitness-pet/id6740509102)
 
 ## Built With
 
