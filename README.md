@@ -7,11 +7,11 @@ Turn your fitness journey into a fun and rewarding game with DigiBuddy—your pe
 Gamify your health and make every step count toward caring for your digital pet. Hit daily activity targets, build streaks, and watch your digi level up, becoming healthier and stronger with each walk and workout. DigiBuddy supercharges your motivation and accountability—your digi’s happiness depends on you!
 
 Why you'll love DigiBuddy:
-* Customizable Digital Pet: Choose your favorite animal and personalize their environment for a fun, engaging experience.
-* Personalized Activity Goals: Set customized daily step and exercise targets tailored to your lifestyle.
-* Stay Motivated and Accountable: Friendly reminders and daily summaries of your activity keep you engaged and on track.
-* Gamified Health Challenges: Set new records and celebrate personal bests as you level up your health.
-* Apple Health Integration: Effortlessly track your steps, walks, and workouts with seamless Apple Health syncing.
+* **Customizable Digital Pet:** Choose your favorite animal and personalize their environment for a fun, engaging experience.
+* **Personalized Activity Goals:** Set customized daily step and exercise targets tailored to your lifestyle.
+* **Stay Motivated and Accountable:** Friendly reminders and daily summaries of your activity keep you engaged and on track.
+* **Gamified Health Challenges:** Set new records and celebrate personal bests as you level up your health.
+* **Apple Health Integration:** Effortlessly track your steps, walks, and workouts with seamless Apple Health syncing.
 
 Ready to meet your new fitness pal?
 Download DigiBuddy now and kickstart your journey toward healthier habits!
