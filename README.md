@@ -1,4 +1,4 @@
-# DigiBuddy: Virtual Pet Fitness
+# DigiBuddy: Virtual Fitness Pet
 
 <img src="https://github.com/JohnSmithCoder1/DigiBuddy-Virtual-Fitness-Pet/blob/main/Screenshots/screenshot_1.png" width="130"> <img src="https://github.com/JohnSmithCoder1/DigiBuddy-Virtual-Fitness-Pet/blob/main/Screenshots/screenshot_2.png" width="130"> <img src="https://github.com/JohnSmithCoder1/DigiBuddy-Virtual-Fitness-Pet/blob/main/Screenshots/screenshot_3.png" width="130"> <img src="https://github.com/JohnSmithCoder1/DigiBuddy-Virtual-Fitness-Pet/blob/main/Screenshots/screenshot_4.png" width="130"> <img src="https://github.com/JohnSmithCoder1/DigiBuddy-Virtual-Fitness-Pet/blob/main/Screenshots/screenshot_5.png" width="130"> <img src="https://github.com/JohnSmithCoder1/DigiBuddy-Virtual-Fitness-Pet/blob/main/Screenshots/screenshot_6.png" width="130">
 
@@ -22,11 +22,6 @@ Download DigiBuddy now and start building habits that last.
 ## Apple App Store ID
 
 * [6740509102](https://apps.apple.com/us/app/digibuddy-virtual-fitness-pet/id6740509102)
-
-## Built With
-
-* XCode 16.2
-* Swift 5.10
 
 ## Built For
 
